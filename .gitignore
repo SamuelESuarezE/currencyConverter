@@ -37,3 +37,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignore config file with secrets
+src/main/resources/config.properties
