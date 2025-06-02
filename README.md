@@ -5,6 +5,14 @@
 - CLI tool to convert currencies.
 - Herramienta CLI para convertir monedas.
 
+## How to use it
+
+## Technologies used
+
+- Java 21
+- Gradle
+- Gson
+
 **API used:** https://www.exchangerate-api.com/
 # Learning Resources used 📚
 
