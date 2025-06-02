@@ -1,4 +1,4 @@
-package dev.samuel.currencyconverter;
+package dev.samuel.currencyconverter.config;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -19,7 +19,7 @@ public class ConfigLoader {
         }
     }
 
-    static String getApiKey() {
+    public static String getApiKey() {
         return properties.getProperty("api.key");
     }
 }
