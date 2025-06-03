@@ -7,6 +7,9 @@
 
 ## How to use it
 
+- Use the 'run' gradle task in IntelliJ
+- You need an ExchangeRate-API api key in src/main/java/resources/config.properties
+
 ## Technologies used
 
 - Java 21
